@@ -1,4 +1,4 @@
-# Compiler Construction / Design Lab (Semester V)
+# Compiler Construction Lab (Semester V)
 
 [![Language](https://img.shields.io/badge/Language-C%20%2F%20Lex%20%2F%20Yacc-blue.svg)](https://en.wikipedia.org/wiki/Lex_(software))
 [![Semester](https://img.shields.io/badge/Semester-V-brightgreen.svg)]()

@@ -1,4 +1,4 @@
-# Compiler Construction Lab (Semester V)
+# Compiler Construction / Design Lab (Semester V)
 
 [![Language](https://img.shields.io/badge/Language-C%20%2F%20Lex%20%2F%20Yacc-blue.svg)](https://en.wikipedia.org/wiki/Lex_(software))
 [![Semester](https://img.shields.io/badge/Semester-V-brightgreen.svg)]()
@@ -31,6 +31,8 @@ This repository contains all lab practicals, source codes (`.l`, `.y`), and PDF 
 | **08** | Postfix Expression Evaluation using YACC & LEX | [View File (Lexer)](./Zaid_Prac8/Zaid_Prac8.l)<br>[View File (Parser)](./Zaid_Prac8/Zaid_Prac8.y) | [View Output](./Zaid_Prac8/Zaid_Prac8.pdf) |
 | **09** | Infix Arithmetic Expression Evaluation with Precedence & Unary Operators | [View File (Lexer)](./Zaid_Prac9/Zaid_Prac9.l)<br>[View File (Parser)](./Zaid_Prac9/Zaid_Prac9.y) | [View Output](./Zaid_Prac9/Zaid_Prac9.pdf) |
 | **10** | For Loop and Ternary Expression Syntax Validation | [View File (Lexer)](./Zaid_Prac10/Zaid_Prac10.l)<br>[View File (Parser)](./Zaid_Prac10/Zaid_Prac10.y) | [View Output](./Zaid_Prac10/Zaid_Prac10.pdf) |
+| **11** | Parser for Variable Declaration Statements using LEX & YACC | [View File (Lexer)](./Zaid_Prac11/Zaid_Prac11.l)<br>[View File (Parser)](./Zaid_Prac11/Zaid_Prac11.y) | [View Output](./Zaid_Prac11/Zaid_Prac11.pdf) |
+| **12** | Intermediate Code Generator for Arithmetic Expressions | [View File (Lexer)](./Zaid_Prac12/Zaid_Prac12.l)<br>[View File (Parser)](./Zaid_Prac12/Zaid_Prac12.y) | [View Output](./Zaid_Prac12/Zaid_Prac12.pdf) |
 
 ---
 
